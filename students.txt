@@ -142,9 +142,6 @@ Matthew Kottre (Verdoge)
 Frank Thaden (Thaden)
 Andrew Jolly (Jollyan)
 Jonah Spencer (spencjon)
-<<<<<<< HEAD
 Connor Stettler (Stettlec)
-=======
 Zachary Tusing (Tusingz)
 Tanner Rousseau (tannerousseau)
->>>>>>> refs/remotes/cs361fall2017/master
