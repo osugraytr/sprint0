@@ -1,5 +1,6 @@
 Add your full name and GitHub username below:
 
+Connor McGrady (mcgradyc)
 Ian Abbene (IAbbene)
 Marsellus Everard-Kelly (marsellusk)
 Ben Windheim (windheib)
@@ -145,5 +146,8 @@ Jonah Spencer (spencjon)
 Connor Stettler (Stettlec)
 Zachary Tusing (Tusingz)
 Tanner Rousseau (tannerousseau)
+Ryan Cairns (cairnsr)
+Christopher Jansen (Christarpher)
 Brooks Mikkelsen (bmikkelsen22)
 Utkarsh Khetan (utkarshkhetan)
+Matthew "The Dude" Phillips (phillim3)
